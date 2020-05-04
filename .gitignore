@@ -3,3 +3,5 @@ logs/
 ckpt/
 results/
 archs/*.pyc
+scripts/
+split.py
